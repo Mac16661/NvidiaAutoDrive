@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+matplotlib
+python-socketio
+Flask
+eventlet
