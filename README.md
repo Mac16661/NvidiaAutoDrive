@@ -1,3 +1,3 @@
 # NvidiaAutoDrive
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]( https://youtu.be/UDrVh4LCb0k "Nvidia autonomous driving deep learning model")
+[<img src="https://raw.githubusercontent.com/Mac16661/NvidiaAutoDrive/main/SDC.png" width="60%">]( https://youtu.be/UDrVh4LCb0k "Nvidia autonomous driving deep learning model")
