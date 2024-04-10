@@ -14,7 +14,7 @@ This is just a high level demo what we are trying to achive
 # CNN architecture. The network has about 27 million connections and 250 thousand parameters.
 <img src="https://github.com/Mac16661/NvidiaAutoDrive/blob/main/conv%20fig.png?raw=true" width="80%"/>
 
-
+# Youtube Link
 [<img src="https://raw.githubusercontent.com/Mac16661/NvidiaAutoDrive/main/SDC.png" width="80%">]( https://youtu.be/UDrVh4LCb0k "Nvidia autonomous driving deep learning model")
 
 
